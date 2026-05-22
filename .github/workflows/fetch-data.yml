@@ -9,6 +9,7 @@ on:
     paths:
       - 'frontend/**'
       - '.github/workflows/**'
+      - 'data/history.json'
 
 permissions:
   contents: write
