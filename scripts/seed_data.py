@@ -164,6 +164,22 @@ def main():
         "snapshots": snapshots,
     }
 
+    # Merge with any existing real data — never overwrite dates already present
+    existing = {"last_updated": "", "snapshots": []}
+    if DATA_FILE.exists():
+        with open(DATA_FILE) as f:
+            existing = json.load(f)
+
+    existing_dates = {s["date"] for s in existing["snapshots"]}
+    new_snapshots = [s for s in snapshots if s["date"] not in existing_dates]
+    merged = existing["snapshots"] + new_snapshots
+    merged.sort(key=lambda s: s["date"])
+
+    history = {
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "snapshots": merged,
+    }
+
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(DATA_FILE, "w") as f:
         json.dump(history, f, indent=2)
