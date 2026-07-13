@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:16:04Z",
+  "last_updated": "2026-07-13T09:25:47Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -28590,6 +28590,200 @@
           "name": "autogluon/chronos-bolt-small",
           "downloads": 14347611,
           "likes": 51
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2870
+        },
+        "chatgpt-api": {
+          "count": 549
+        },
+        "google-gemini": {
+          "count": 466
+        },
+        "langchain": {
+          "count": 2175
+        },
+        "huggingface": {
+          "count": 995
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "pypi": {
+        "openai": {
+          "last_day": 9409484,
+          "last_week": 84934993,
+          "last_month": 361259643
+        },
+        "anthropic": {
+          "last_day": 3847717,
+          "last_week": 37840927,
+          "last_month": 155732867
+        },
+        "google-generativeai": {
+          "last_day": 437462,
+          "last_week": 3846903,
+          "last_month": 16313258
+        },
+        "replicate": {
+          "last_day": 44340,
+          "last_week": 474172,
+          "last_month": 1561912
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 31268,
+          "forks": 5031,
+          "issues": 570,
+          "updated_at": "2026-07-12T23:40:21Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 3736,
+          "forks": 773,
+          "issues": 340,
+          "updated_at": "2026-07-13T05:05:45Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2324,
+          "forks": 522,
+          "issues": 95,
+          "updated_at": "2026-07-13T08:47:47Z"
+        },
+        "mistralai/client-python": {
+          "stars": 756,
+          "forks": 196,
+          "issues": 22,
+          "updated_at": "2026-07-13T03:17:11Z"
+        },
+        "ollama/ollama": {
+          "stars": 176023,
+          "forks": 16957,
+          "issues": 3427,
+          "updated_at": "2026-07-13T09:16:02Z"
+        },
+        "huggingface/transformers": {
+          "stars": 162560,
+          "forks": 33877,
+          "issues": 2494,
+          "updated_at": "2026-07-13T09:20:47Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 141650,
+          "forks": 23545,
+          "issues": 422,
+          "updated_at": "2026-07-13T09:21:42Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 53411,
+          "forks": 9710,
+          "issues": 3861,
+          "updated_at": "2026-07-13T09:22:46Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 253402358,
+          "likes": 5062
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 85113639,
+          "likes": 278
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 75423637,
+          "likes": 2703
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 66697644,
+          "likes": 508
+        },
+        {
+          "name": "google/electra-base-discriminator",
+          "downloads": 52022122,
+          "likes": 138
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 50319501,
+          "likes": 1313
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 34759199,
+          "likes": 3222
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 32079475,
+          "likes": 1325
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 27322220,
+          "likes": 1405
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 26837691,
+          "likes": 568
+        },
+        {
+          "name": "timm/mobilenetv3_small_100.lamb_in1k",
+          "downloads": 26703848,
+          "likes": 88
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 23642970,
+          "likes": 977
+        },
+        {
+          "name": "FacebookAI/xlm-roberta-base",
+          "downloads": 22854033,
+          "likes": 864
+        },
+        {
+          "name": "Qwen/Qwen3-8B",
+          "downloads": 17977492,
+          "likes": 1197
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 17463389,
+          "likes": 1083
+        },
+        {
+          "name": "facebook/opt-125m",
+          "downloads": 15169725,
+          "likes": 275
+        },
+        {
+          "name": "nomic-ai/nomic-embed-text-v1.5",
+          "downloads": 15139553,
+          "likes": 865
+        },
+        {
+          "name": "amazon/chronos-2",
+          "downloads": 14849836,
+          "likes": 356
+        },
+        {
+          "name": "intfloat/multilingual-e5-small",
+          "downloads": 14836221,
+          "likes": 360
+        },
+        {
+          "name": "BAAI/bge-large-en-v1.5",
+          "downloads": 14641851,
+          "likes": 699
         }
       ],
       "stackoverflow": {
