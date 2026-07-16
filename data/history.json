@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T08:08:46Z",
+  "last_updated": "2026-07-16T08:12:20Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -29183,6 +29183,104 @@
         },
         "google-gemini": {
           "count": 468
+        },
+        "langchain": {
+          "count": 2175
+        },
+        "huggingface": {
+          "count": 995
+        }
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "pypi": {
+        "google-generativeai": {
+          "last_day": 605034,
+          "last_week": 3855316,
+          "last_month": 16633568
+        },
+        "mistralai": {
+          "last_day": 1831513,
+          "last_week": 10583553,
+          "last_month": 44528608
+        },
+        "cohere": {
+          "last_day": 1407227,
+          "last_week": 9242043,
+          "last_month": 42264382
+        },
+        "ollama": {
+          "last_day": 805885,
+          "last_week": 4743398,
+          "last_month": 23658337
+        },
+        "replicate": {
+          "last_day": 74795,
+          "last_week": 486535,
+          "last_month": 1685712
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 31283,
+          "forks": 5044,
+          "issues": 581,
+          "updated_at": "2026-07-16T08:11:06Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 3744,
+          "forks": 775,
+          "issues": 346,
+          "updated_at": "2026-07-16T06:50:42Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2324,
+          "forks": 524,
+          "issues": 95,
+          "updated_at": "2026-07-13T22:43:53Z"
+        },
+        "mistralai/client-python": {
+          "stars": 756,
+          "forks": 197,
+          "issues": 21,
+          "updated_at": "2026-07-15T09:15:44Z"
+        },
+        "ollama/ollama": {
+          "stars": 176225,
+          "forks": 16975,
+          "issues": 3457,
+          "updated_at": "2026-07-16T08:09:47Z"
+        },
+        "huggingface/transformers": {
+          "stars": 162640,
+          "forks": 33899,
+          "issues": 2495,
+          "updated_at": "2026-07-16T08:10:08Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 141892,
+          "forks": 23577,
+          "issues": 429,
+          "updated_at": "2026-07-16T08:02:32Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 53746,
+          "forks": 9809,
+          "issues": 3963,
+          "updated_at": "2026-07-16T08:02:42Z"
+        }
+      },
+      "huggingface_top_models": [],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2869
+        },
+        "chatgpt-api": {
+          "count": 549
+        },
+        "google-gemini": {
+          "count": 467
         },
         "langchain": {
           "count": 2175
