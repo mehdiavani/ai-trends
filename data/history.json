@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T09:42:45Z",
+  "last_updated": "2026-08-04T08:35:14Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -32941,6 +32941,215 @@
         {
           "name": "nomic-ai/nomic-embed-text-v1.5",
           "downloads": 15537636,
+          "likes": 883
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2862
+        },
+        "chatgpt-api": {
+          "count": 548
+        },
+        "google-gemini": {
+          "count": 465
+        },
+        "langchain": {
+          "count": 2173
+        },
+        "huggingface": {
+          "count": 996
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "pypi": {
+        "openai": {
+          "last_day": 17547277,
+          "last_week": 107788906,
+          "last_month": 390702504
+        },
+        "anthropic": {
+          "last_day": 7278531,
+          "last_week": 47080940,
+          "last_month": 179135785
+        },
+        "google-generativeai": {
+          "last_day": 547043,
+          "last_week": 3457610,
+          "last_month": 15590620
+        },
+        "cohere": {
+          "last_day": 1231416,
+          "last_week": 8780849,
+          "last_month": 38678456
+        },
+        "ollama": {
+          "last_day": 722207,
+          "last_week": 4275115,
+          "last_month": 18722918
+        },
+        "huggingface-hub": {
+          "last_day": 18483909,
+          "last_week": 119015379,
+          "last_month": 430238712
+        },
+        "replicate": {
+          "last_day": 62824,
+          "last_week": 384276,
+          "last_month": 1770537
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 31292,
+          "forks": 5091,
+          "issues": 611,
+          "updated_at": "2026-08-04T07:01:49Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 3790,
+          "forks": 797,
+          "issues": 361,
+          "updated_at": "2026-08-04T04:02:49Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2329,
+          "forks": 524,
+          "issues": 95,
+          "updated_at": "2026-07-30T21:22:41Z"
+        },
+        "mistralai/client-python": {
+          "stars": 763,
+          "forks": 200,
+          "issues": 24,
+          "updated_at": "2026-08-04T06:59:56Z"
+        },
+        "ollama/ollama": {
+          "stars": 177733,
+          "forks": 17254,
+          "issues": 3591,
+          "updated_at": "2026-08-04T08:27:11Z"
+        },
+        "huggingface/transformers": {
+          "stars": 163319,
+          "forks": 34112,
+          "issues": 2345,
+          "updated_at": "2026-08-04T08:28:40Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 143392,
+          "forks": 23883,
+          "issues": 450,
+          "updated_at": "2026-08-04T08:34:19Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 55499,
+          "forks": 10304,
+          "issues": 4729,
+          "updated_at": "2026-08-04T08:28:54Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 259564359,
+          "likes": 5170
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 119489278,
+          "likes": 2726
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 89315748,
+          "likes": 294
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 72855959,
+          "likes": 522
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 60011748,
+          "likes": 1339
+        },
+        {
+          "name": "google/electra-base-discriminator",
+          "downloads": 56560021,
+          "likes": 148
+        },
+        {
+          "name": "lpiccinelli/unidepth-v2-vitl14",
+          "downloads": 38231194,
+          "likes": 47
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 35231255,
+          "likes": 3305
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 29699637,
+          "likes": 1482
+        },
+        {
+          "name": "amazon/chronos-2",
+          "downloads": 29542402,
+          "likes": 389
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 25685511,
+          "likes": 1337
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 25124048,
+          "likes": 588
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 22611260,
+          "likes": 992
+        },
+        {
+          "name": "FacebookAI/xlm-roberta-base",
+          "downloads": 20888194,
+          "likes": 877
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 19224490,
+          "likes": 1122
+        },
+        {
+          "name": "facebook/opt-125m",
+          "downloads": 18604659,
+          "likes": 286
+        },
+        {
+          "name": "timm/mobilenetv3_small_100.lamb_in1k",
+          "downloads": 18523713,
+          "likes": 99
+        },
+        {
+          "name": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+          "downloads": 16487039,
+          "likes": 18
+        },
+        {
+          "name": "Qwen/Qwen3-8B",
+          "downloads": 16272885,
+          "likes": 1275
+        },
+        {
+          "name": "nomic-ai/nomic-embed-text-v1.5",
+          "downloads": 15695999,
           "likes": 883
         }
       ],
