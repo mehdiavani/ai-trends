@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T10:55:29Z",
+  "last_updated": "2026-10-16T10:47:20Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -47957,6 +47957,230 @@
         },
         "google-gemini": {
           "count": 377
+        },
+        "langchain": {
+          "count": 1972
+        },
+        "huggingface": {
+          "count": 900
+        }
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "pypi": {
+        "openai": {
+          "last_day": 13859068,
+          "last_week": 79896380,
+          "last_month": 295856631
+        },
+        "anthropic": {
+          "last_day": 7503716,
+          "last_week": 43035439,
+          "last_month": 150199657
+        },
+        "google-generativeai": {
+          "last_day": 360576,
+          "last_week": 2010539,
+          "last_month": 7310071
+        },
+        "mistralai": {
+          "last_day": 560612,
+          "last_week": 3131344,
+          "last_month": 16185864
+        },
+        "cohere": {
+          "last_day": 451019,
+          "last_week": 2410598,
+          "last_month": 10340762
+        },
+        "groq": {
+          "last_day": 618218,
+          "last_week": 3778500,
+          "last_month": 16795477
+        },
+        "ollama": {
+          "last_day": 412557,
+          "last_week": 2950557,
+          "last_month": 13275724
+        },
+        "huggingface-hub": {
+          "last_day": 10263155,
+          "last_week": 61161381,
+          "last_month": 232552563
+        },
+        "replicate": {
+          "last_day": 67889,
+          "last_week": 375858,
+          "last_month": 1526037
+        },
+        "together": {
+          "last_day": 78431,
+          "last_week": 395861,
+          "last_month": 1503145
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 31861,
+          "forks": 8267,
+          "issues": 140,
+          "updated_at": "2026-10-16T09:02:27Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 3974,
+          "forks": 887,
+          "issues": 202,
+          "updated_at": "2026-10-16T07:27:43Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2326,
+          "forks": 525,
+          "issues": 94,
+          "updated_at": "2026-10-14T17:25:12Z"
+        },
+        "mistralai/client-python": {
+          "stars": 773,
+          "forks": 209,
+          "issues": 36,
+          "updated_at": "2026-10-09T09:40:34Z"
+        },
+        "ollama/ollama": {
+          "stars": 183411,
+          "forks": 18321,
+          "issues": 4301,
+          "updated_at": "2026-10-16T10:38:41Z"
+        },
+        "huggingface/transformers": {
+          "stars": 167757,
+          "forks": 34879,
+          "issues": 2323,
+          "updated_at": "2026-10-16T10:41:58Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 147919,
+          "forks": 24829,
+          "issues": 651,
+          "updated_at": "2026-10-16T10:38:36Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 61371,
+          "forks": 12406,
+          "issues": 5491,
+          "updated_at": "2026-10-16T10:35:42Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 213006807,
+          "likes": 6343
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 77490177,
+          "likes": 414
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 58505382,
+          "likes": 643
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 46123773,
+          "likes": 1477
+        },
+        {
+          "name": "google/electra-base-discriminator",
+          "downloads": 41856725,
+          "likes": 216
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 32099524,
+          "likes": 3432
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 31932601,
+          "likes": 3898
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 29878421,
+          "likes": 1819
+        },
+        {
+          "name": "Comfy-Org/MiniMax-H3",
+          "downloads": 24667625,
+          "likes": 2304
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 23774378,
+          "likes": 683
+        },
+        {
+          "name": "timm/mobilenetv3_small_100.lamb_in1k",
+          "downloads": 20928500,
+          "likes": 151
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 18206431,
+          "likes": 1617
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 18062177,
+          "likes": 1395
+        },
+        {
+          "name": "amazon/chronos-2",
+          "downloads": 17755478,
+          "likes": 540
+        },
+        {
+          "name": "openai-community/gpt2",
+          "downloads": 16217581,
+          "likes": 4257
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 15733412,
+          "likes": 1261
+        },
+        {
+          "name": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+          "downloads": 15631283,
+          "likes": 107
+        },
+        {
+          "name": "nomic-ai/nomic-embed-text-v1.5",
+          "downloads": 13306309,
+          "likes": 977
+        },
+        {
+          "name": "google/vit-base-patch16-224",
+          "downloads": 12819039,
+          "likes": 1038
+        },
+        {
+          "name": "mudler/locate-anything.cpp-gguf",
+          "downloads": 12010068,
+          "likes": 53
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2539
+        },
+        "chatgpt-api": {
+          "count": 499
+        },
+        "google-gemini": {
+          "count": 376
         },
         "langchain": {
           "count": 1972
