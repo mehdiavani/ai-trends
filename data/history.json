@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T12:44:28Z",
+  "last_updated": "2026-11-02T14:52:00Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -51744,6 +51744,230 @@
           "name": "Qwen/Qwen3-14B",
           "downloads": 13002507,
           "likes": 529
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2539
+        },
+        "chatgpt-api": {
+          "count": 499
+        },
+        "google-gemini": {
+          "count": 379
+        },
+        "langchain": {
+          "count": 1972
+        },
+        "huggingface": {
+          "count": 900
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "pypi": {
+        "openai": {
+          "last_day": 9335825,
+          "last_week": 85437895,
+          "last_month": 295856631
+        },
+        "anthropic": {
+          "last_day": 4805604,
+          "last_week": 46914523,
+          "last_month": 150199657
+        },
+        "google-generativeai": {
+          "last_day": 258295,
+          "last_week": 2236391,
+          "last_month": 7310071
+        },
+        "mistralai": {
+          "last_day": 199407,
+          "last_week": 3159360,
+          "last_month": 16185864
+        },
+        "cohere": {
+          "last_day": 188964,
+          "last_week": 2552567,
+          "last_month": 10340762
+        },
+        "groq": {
+          "last_day": 363603,
+          "last_week": 3870662,
+          "last_month": 16795477
+        },
+        "ollama": {
+          "last_day": 334029,
+          "last_week": 2879948,
+          "last_month": 13275724
+        },
+        "huggingface-hub": {
+          "last_day": 7387210,
+          "last_week": 67522446,
+          "last_month": 232552563
+        },
+        "replicate": {
+          "last_day": 31249,
+          "last_week": 393521,
+          "last_month": 1526037
+        },
+        "together": {
+          "last_day": 19031,
+          "last_week": 431311,
+          "last_month": 1503145
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 32016,
+          "forks": 6677,
+          "issues": 100,
+          "updated_at": "2026-11-02T13:16:18Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 4035,
+          "forks": 900,
+          "issues": 233,
+          "updated_at": "2026-11-02T11:00:53Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2328,
+          "forks": 526,
+          "issues": 94,
+          "updated_at": "2026-11-02T01:57:27Z"
+        },
+        "mistralai/client-python": {
+          "stars": 774,
+          "forks": 209,
+          "issues": 43,
+          "updated_at": "2026-11-02T08:57:04Z"
+        },
+        "ollama/ollama": {
+          "stars": 185666,
+          "forks": 18865,
+          "issues": 4543,
+          "updated_at": "2026-11-02T14:51:00Z"
+        },
+        "huggingface/transformers": {
+          "stars": 168448,
+          "forks": 35084,
+          "issues": 1038,
+          "updated_at": "2026-11-02T14:51:54Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 148880,
+          "forks": 25030,
+          "issues": 706,
+          "updated_at": "2026-11-02T14:50:11Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 62555,
+          "forks": 12923,
+          "issues": 5602,
+          "updated_at": "2026-11-02T14:36:21Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 182509097,
+          "likes": 6056
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 66901235,
+          "likes": 438
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 49836681,
+          "likes": 662
+        },
+        {
+          "name": "Comfy-Org/MiniMax-H3",
+          "downloads": 31098855,
+          "likes": 2483
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 30252576,
+          "likes": 3958
+        },
+        {
+          "name": "openai-community/gpt2",
+          "downloads": 29307840,
+          "likes": 3912
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 29234461,
+          "likes": 3060
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 28384395,
+          "likes": 1496
+        },
+        {
+          "name": "argmaxinc/whisperkit-coreml",
+          "downloads": 27332146,
+          "likes": 260
+        },
+        {
+          "name": "autogluon/chronos-2",
+          "downloads": 23513356,
+          "likes": 94
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 23416949,
+          "likes": 687
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 23175586,
+          "likes": 1868
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 20046382,
+          "likes": 1402
+        },
+        {
+          "name": "google/electra-base-discriminator",
+          "downloads": 17601325,
+          "likes": 218
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 17564725,
+          "likes": 1272
+        },
+        {
+          "name": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+          "downloads": 16178890,
+          "likes": 118
+        },
+        {
+          "name": "google/vit-base-patch16-224",
+          "downloads": 15440331,
+          "likes": 1048
+        },
+        {
+          "name": "timm/mobilenetv3_small_100.lamb_in1k",
+          "downloads": 15087982,
+          "likes": 156
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 14444120,
+          "likes": 1285
+        },
+        {
+          "name": "Qwen/Qwen3-14B",
+          "downloads": 12988834,
+          "likes": 530
         }
       ],
       "stackoverflow": {
