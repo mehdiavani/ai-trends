@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T15:18:45Z",
+  "last_updated": "2026-11-10T14:24:48Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -53543,6 +53543,230 @@
         },
         "huggingface": {
           "count": 900
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "pypi": {
+        "openai": {
+          "last_day": 12943927,
+          "last_week": 90984450,
+          "last_month": 295856631
+        },
+        "anthropic": {
+          "last_day": 7427542,
+          "last_week": 50339008,
+          "last_month": 150199657
+        },
+        "google-generativeai": {
+          "last_day": 288665,
+          "last_week": 2280740,
+          "last_month": 7310071
+        },
+        "mistralai": {
+          "last_day": 497699,
+          "last_week": 3623070,
+          "last_month": 16185864
+        },
+        "cohere": {
+          "last_day": 398351,
+          "last_week": 2629269,
+          "last_month": 10340762
+        },
+        "groq": {
+          "last_day": 683407,
+          "last_week": 4240573,
+          "last_month": 16795477
+        },
+        "ollama": {
+          "last_day": 546548,
+          "last_week": 3305461,
+          "last_month": 13275724
+        },
+        "huggingface-hub": {
+          "last_day": 9809930,
+          "last_week": 69283260,
+          "last_month": 232552563
+        },
+        "replicate": {
+          "last_day": 44900,
+          "last_week": 355435,
+          "last_month": 1526037
+        },
+        "together": {
+          "last_day": 60480,
+          "last_week": 432642,
+          "last_month": 1503145
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 32104,
+          "forks": 5888,
+          "issues": 91,
+          "updated_at": "2026-11-10T12:47:28Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 4064,
+          "forks": 907,
+          "issues": 233,
+          "updated_at": "2026-11-10T09:54:56Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2331,
+          "forks": 527,
+          "issues": 94,
+          "updated_at": "2026-11-07T17:48:54Z"
+        },
+        "mistralai/client-python": {
+          "stars": 773,
+          "forks": 210,
+          "issues": 42,
+          "updated_at": "2026-11-10T05:49:37Z"
+        },
+        "ollama/ollama": {
+          "stars": 186528,
+          "forks": 18994,
+          "issues": 4620,
+          "updated_at": "2026-11-10T14:19:12Z"
+        },
+        "huggingface/transformers": {
+          "stars": 168735,
+          "forks": 35156,
+          "issues": 1072,
+          "updated_at": "2026-11-10T14:14:28Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 149304,
+          "forks": 25105,
+          "issues": 739,
+          "updated_at": "2026-11-10T14:20:08Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 63044,
+          "forks": 13156,
+          "issues": 5050,
+          "updated_at": "2026-11-10T14:22:56Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 177011779,
+          "likes": 6091
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 62404301,
+          "likes": 443
+        },
+        {
+          "name": "argmaxinc/whisperkit-coreml",
+          "downloads": 54455770,
+          "likes": 262
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 47146596,
+          "likes": 669
+        },
+        {
+          "name": "Comfy-Org/MiniMax-H3",
+          "downloads": 32531539,
+          "likes": 2583
+        },
+        {
+          "name": "openai-community/gpt2",
+          "downloads": 32217183,
+          "likes": 3925
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 31436641,
+          "likes": 3064
+        },
+        {
+          "name": "autogluon/chronos-2",
+          "downloads": 30344866,
+          "likes": 94
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 29334229,
+          "likes": 3983
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 26935053,
+          "likes": 1502
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 21371418,
+          "likes": 692
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 20511631,
+          "likes": 1889
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 20493102,
+          "likes": 1404
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 17830196,
+          "likes": 1276
+        },
+        {
+          "name": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+          "downloads": 16256691,
+          "likes": 118
+        },
+        {
+          "name": "google/vit-base-patch16-224",
+          "downloads": 14956401,
+          "likes": 1050
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 14786395,
+          "likes": 1297
+        },
+        {
+          "name": "Qwen/Qwen3-14B",
+          "downloads": 12907991,
+          "likes": 536
+        },
+        {
+          "name": "microsoft/Florence-2-base",
+          "downloads": 12525813,
+          "likes": 437
+        },
+        {
+          "name": "hexgrad/Kokoro-82M",
+          "downloads": 12522206,
+          "likes": 7393
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2538
+        },
+        "chatgpt-api": {
+          "count": 499
+        },
+        "google-gemini": {
+          "count": 378
+        },
+        "langchain": {
+          "count": 1973
+        },
+        "huggingface": {
+          "count": 899
         }
       }
     }
