@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T16:51:10Z",
+  "last_updated": "2026-11-26T16:27:59Z",
   "snapshots": [
     {
       "date": "2026-02-22",
@@ -57088,6 +57088,230 @@
         },
         "chatgpt-api": {
           "count": 500
+        },
+        "google-gemini": {
+          "count": 379
+        },
+        "langchain": {
+          "count": 1972
+        },
+        "huggingface": {
+          "count": 900
+        }
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "pypi": {
+        "openai": {
+          "last_day": 14597363,
+          "last_week": 93339665,
+          "last_month": 393251348
+        },
+        "anthropic": {
+          "last_day": 8631586,
+          "last_week": 51637091,
+          "last_month": 217171954
+        },
+        "google-generativeai": {
+          "last_day": 265021,
+          "last_week": 1693247,
+          "last_month": 8587022
+        },
+        "mistralai": {
+          "last_day": 554755,
+          "last_week": 3351945,
+          "last_month": 14249863
+        },
+        "cohere": {
+          "last_day": 434674,
+          "last_week": 2813887,
+          "last_month": 11342349
+        },
+        "groq": {
+          "last_day": 527229,
+          "last_week": 3696457,
+          "last_month": 16805094
+        },
+        "ollama": {
+          "last_day": 417079,
+          "last_week": 2743847,
+          "last_month": 12842811
+        },
+        "huggingface-hub": {
+          "last_day": 11337469,
+          "last_week": 72517502,
+          "last_month": 303373808
+        },
+        "replicate": {
+          "last_day": 53951,
+          "last_week": 337251,
+          "last_month": 1520061
+        },
+        "together": {
+          "last_day": 76824,
+          "last_week": 477368,
+          "last_month": 1904706
+        }
+      },
+      "github": {
+        "openai/openai-python": {
+          "stars": 32252,
+          "forks": 5830,
+          "issues": 110,
+          "updated_at": "2026-11-26T14:33:22Z"
+        },
+        "anthropics/anthropic-sdk-python": {
+          "stars": 4115,
+          "forks": 919,
+          "issues": 249,
+          "updated_at": "2026-11-26T14:19:39Z"
+        },
+        "google-gemini/generative-ai-python": {
+          "stars": 2330,
+          "forks": 528,
+          "issues": 94,
+          "updated_at": "2026-11-25T16:22:23Z"
+        },
+        "mistralai/client-python": {
+          "stars": 782,
+          "forks": 208,
+          "issues": 20,
+          "updated_at": "2026-11-26T09:31:25Z"
+        },
+        "ollama/ollama": {
+          "stars": 188213,
+          "forks": 19217,
+          "issues": 4781,
+          "updated_at": "2026-11-26T16:25:04Z"
+        },
+        "huggingface/transformers": {
+          "stars": 169362,
+          "forks": 35314,
+          "issues": 1172,
+          "updated_at": "2026-11-26T16:27:50Z"
+        },
+        "langchain-ai/langchain": {
+          "stars": 150021,
+          "forks": 25177,
+          "issues": 783,
+          "updated_at": "2026-11-26T15:06:40Z"
+        },
+        "BerriAI/litellm": {
+          "stars": 63958,
+          "forks": 13598,
+          "issues": 5555,
+          "updated_at": "2026-11-26T15:09:49Z"
+        }
+      },
+      "huggingface_top_models": [
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "downloads": 163236308,
+          "likes": 6185
+        },
+        {
+          "name": "argmaxinc/whisperkit-coreml",
+          "downloads": 106745917,
+          "likes": 276
+        },
+        {
+          "name": "autogluon/chronos-2",
+          "downloads": 56197470,
+          "likes": 100
+        },
+        {
+          "name": "cross-encoder/ms-marco-MiniLM-L6-v2",
+          "downloads": 53635844,
+          "likes": 459
+        },
+        {
+          "name": "BAAI/bge-small-en-v1.5",
+          "downloads": 42638458,
+          "likes": 685
+        },
+        {
+          "name": "BAAI/bge-m3",
+          "downloads": 35542098,
+          "likes": 4041
+        },
+        {
+          "name": "Comfy-Org/MiniMax-H3",
+          "downloads": 33258212,
+          "likes": 2852
+        },
+        {
+          "name": "google-bert/bert-base-uncased",
+          "downloads": 33034257,
+          "likes": 3094
+        },
+        {
+          "name": "openai-community/gpt2",
+          "downloads": 32586689,
+          "likes": 4378
+        },
+        {
+          "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+          "downloads": 24694758,
+          "likes": 1519
+        },
+        {
+          "name": "microsoft/Florence-2-base",
+          "downloads": 23837137,
+          "likes": 445
+        },
+        {
+          "name": "sentence-transformers/all-mpnet-base-v2",
+          "downloads": 19087203,
+          "likes": 1412
+        },
+        {
+          "name": "openai/clip-vit-base-patch32",
+          "downloads": 16508304,
+          "likes": 1292
+        },
+        {
+          "name": "google-t5/t5-small",
+          "downloads": 16191870,
+          "likes": 705
+        },
+        {
+          "name": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+          "downloads": 15444672,
+          "likes": 121
+        },
+        {
+          "name": "BAAI/bge-reranker-v2-m3",
+          "downloads": 14488039,
+          "likes": 1324
+        },
+        {
+          "name": "google/vit-base-patch16-224",
+          "downloads": 14331565,
+          "likes": 1061
+        },
+        {
+          "name": "Qwen/Qwen3-0.6B",
+          "downloads": 14010062,
+          "likes": 1942
+        },
+        {
+          "name": "hexgrad/Kokoro-82M",
+          "downloads": 13698181,
+          "likes": 7528
+        },
+        {
+          "name": "Qwen/Qwen3-14B",
+          "downloads": 13242858,
+          "likes": 558
+        }
+      ],
+      "stackoverflow": {
+        "openai-api": {
+          "count": 2537
+        },
+        "chatgpt-api": {
+          "count": 499
         },
         "google-gemini": {
           "count": 379
